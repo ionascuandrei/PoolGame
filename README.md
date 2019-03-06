@@ -1,4 +1,4 @@
-# PoolGame-OpenGL
+# PoolGame - OpenGL
 Proiectul constă în implementarea unui joc 3D de Biliard pentru 2 jucători realizat în OpenGL. Jocul dispune de statistici și informații live despre stadiul curent al jocului, toate acestea fiind afișate în consolă.
 
 Beneficiu personal:
